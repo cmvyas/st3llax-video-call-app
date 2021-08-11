@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/st3llax-video-call-app/static/css/main.c6b7105f.chunk.css",
-    "main.js": "/st3llax-video-call-app/static/js/main.04941ea2.chunk.js",
-    "main.js.map": "/st3llax-video-call-app/static/js/main.04941ea2.chunk.js.map",
+    "main.js": "/st3llax-video-call-app/static/js/main.621d8a73.chunk.js",
+    "main.js.map": "/st3llax-video-call-app/static/js/main.621d8a73.chunk.js.map",
     "runtime-main.js": "/st3llax-video-call-app/static/js/runtime-main.003740d5.js",
     "runtime-main.js.map": "/st3llax-video-call-app/static/js/runtime-main.003740d5.js.map",
     "static/js/2.d87cf94b.chunk.js": "/st3llax-video-call-app/static/js/2.d87cf94b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.003740d5.js",
     "static/js/2.d87cf94b.chunk.js",
     "static/css/main.c6b7105f.chunk.css",
-    "static/js/main.04941ea2.chunk.js"
+    "static/js/main.621d8a73.chunk.js"
   ]
 }
